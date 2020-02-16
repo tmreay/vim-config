@@ -1,0 +1,6 @@
+[submodule "pack/themes/start/dracula"]
+	path = pack/themes/start/dracula
+	url = git@github.com:dracula/vim.git
+[submodule "pack/themes/opt/dracula"]
+	path = pack/themes/opt/dracula
+	url = git@github.com:dracula/vim.git
