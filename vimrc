@@ -1,3 +1,6 @@
+" Basic vim config
+set backspace=2
+
 " Dracula Theme
 packadd! dracula
 syntax on
