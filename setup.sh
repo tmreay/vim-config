@@ -1,4 +1,4 @@
 git submodule update --init --recursive
-ln -s $(pwd)/vimrc ~/.vimrc
-ln -s $(pwd) ~/.vim
+ln -sf $(pwd)/vimrc ~/.vimrc
+ln -sfn $(pwd) ~/.vim
 
