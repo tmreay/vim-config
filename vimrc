@@ -1,5 +1,6 @@
 " Basic vim config
 set backspace=2
+set number
 
 " Dracula Theme
 packadd! dracula
